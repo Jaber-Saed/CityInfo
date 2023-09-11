@@ -4,7 +4,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddControllers(options =>
+builder.Services.AddControllers(
+    //Here I will contorl for How the behavers of api requset formt do as acept jeson or xml or not
+    options =>
 {
     options.ReturnHttpNotAcceptable = true;
 }).AddXmlDataContractSerializerFormatters();

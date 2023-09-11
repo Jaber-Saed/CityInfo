@@ -230,11 +230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaber\\Desktop\\03\\demos\\end\\CityInfo.API\\CityInfo.API.csproj",
+      "projectUniqueName": "C:\\Users\\jaber\\Desktop\\ASP\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
       "projectName": "CityInfo.API",
-      "projectPath": "C:\\Users\\jaber\\Desktop\\03\\demos\\end\\CityInfo.API\\CityInfo.API.csproj",
+      "projectPath": "C:\\Users\\jaber\\Desktop\\ASP\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
       "packagesPath": "C:\\Users\\jaber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaber\\Desktop\\03\\demos\\end\\CityInfo.API\\obj\\",
+      "outputPath": "C:\\Users\\jaber\\Desktop\\ASP\\CityInfo\\CityInfo.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
